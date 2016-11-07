@@ -1,0 +1,60 @@
+Zadanie 1:
+Wiktor				Programista
+Oleksandr			Level designer
+Patryk				Programista
+Bartek				Grafik
+Krystian			Grafik
+Piotrek				Team lead
+
+Fazy realizacji:
+	1) Zdefiniowanie projektu.
+		
+		W projekcie bêdzie 2 Programistów : Wiktor, Patryk
+		2 Grafików : Bartek, Krystian
+		Level designer Oleksandr oraz Team leader Piotrek.
+		
+		Celem projektu jest stworzenie gry komputerowej typu FPS 3D multiplayer.
+		
+	2) Planowanie projektu
+		1. Tworzenie fizyki gry
+		2. Tworzenie map gry
+		3. Tworzenie interfejsu uzytkownika
+		4. Testowanie oprogramowania
+		5. Dodanie multiplayeru
+		6. Testowanie multiplayeru
+		7. Finalnie testowanie i wdrozenie
+	3) Wykonanie planu projektu
+		1. Stworzenie fizyki gry
+		2. Stworzenie map gry
+		3. Stworzenie interfejsu uzytkownika
+		4. Testowanie oprogramowania
+		5. Dodanie multiplayeru
+		6. Testowanie multiplayeru
+		7. Finalnie testowanie i wdrozenie
+	4) Zamykanie projektu
+		Zamkniety
+		
+Zadanie 3:
+	1) Stworzenie oraz przetestowanie gry
+	2) 180 roboczych dni.
+	3) W razie opoznen gra zostanie oddana terminowo, a brakujace czesci gry, beda wypuszczane w patchach.
+	4) Zasoby ludskie i materialne nie pozwalaja na utworzenie bazy danych oraz dzwiekow do gry.
+	5) Wszystkie zadania oprocz testowania sa krytyczne
+	6) Tworzenie gry - 100000 zl, testowanie - 30000 zl.
+
+Zadanie 5:
+	Wymagania niefunkcjonalne:
+		1) Rejestracja i logowanie uzytkownikow
+		2) Mozliwosci ruchu (chodzenie, skakanie, kucanie)
+		3) Mozliwosci strzalu (oddanie szcza³ó, celowanie, zmiana broni, przeladowanie)
+	
+	Wymagania funkcjonalne:
+		1) Podczas ruchu musze byc sprawdzone kolidowanie z innymi obiektami gry.
+		2) Podczas strzalu musze byc sprawdzone kolidowanie z cela strzalu 
+
+
+Numer GIT: 962368167
+
+
+
+	
